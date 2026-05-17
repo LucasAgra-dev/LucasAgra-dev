@@ -4,8 +4,6 @@ Cursando Ciência da Computação no CEUB
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql" />
-
 <br><br>
 
 <a href="https://www.linkedin.com/in/lucas-agra-3a22421a2">
